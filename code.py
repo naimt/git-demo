@@ -5,6 +5,7 @@ print('Sup')
 
 def image_detect():
 	# detect an image!!!
+	print('detects an image!!!!')		
 	pass
 
 # aahhh!
