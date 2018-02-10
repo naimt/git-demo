@@ -9,3 +9,8 @@ def image_detect():
 
 # aahhh!
 # I;m made of antimatter muahahaha
+
+
+# WORKING ON THIS SIMULTANEOUSLY
+# WHEN MARTIN WAS
+
