@@ -13,4 +13,5 @@ def image_detect():
 
 # WORKING ON THIS SIMULTANEOUSLY
 # WHEN MARTIN WAS
+#this is kinda dumb
 
