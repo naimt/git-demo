@@ -11,6 +11,7 @@ def image_detect():
 # AHAHAHAHAA SABOTAGE!!!!
 # aahhh!
 # I;m made of antimatter
+# --Glenn 2k17
 
 
 # WORKING ON THIS SIMULTANEOUSLY
